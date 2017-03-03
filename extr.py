@@ -149,3 +149,8 @@ def build_markdown(links):
     # print(len(groups))
 
 build_markdown(clear_list)
+print(clear_list[:10])
+
+with open('tmp.txt', 'w') as _:
+    for el in clear_list:
+        _.write('{}:-:{}\n'.format(*el))
