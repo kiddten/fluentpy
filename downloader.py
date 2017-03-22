@@ -130,9 +130,11 @@ def build_markdown(links):
 def build_markdown_extended(links):
     fluent = open('fluentpy3.md', 'w')
     fluent_errors = open('fluentpy3_errors.md', 'w')
+    for k, _ in groupby(links, itemgetter(1)):
+        fluent.write('[{}](#{})\n'.format(k, k.lower().replace(' ', '-').replace(':', '')))
     for k, g in groupby(links, itemgetter(1)):
-        fluent.write('###{}\n'.format(k))
-        fluent_errors.write('###{}\n'.format(k))
+        fluent.write('### {}\n'.format(k))
+        fluent_errors.write('### {}\n'.format(k))
         for unit in g:
             if not unit[2].error:
                 url = unit[2].resolved_url if unit[2].resolved_url else unit[0]
