@@ -1,6 +1,8 @@
 import asyncio
 from itertools import groupby
 from operator import itemgetter
+from random import randint
+from urllib.parse import urlparse
 
 import aiohttp
 import lxml.html
@@ -29,22 +31,32 @@ class Response:
         return f'{self.initial_url} - {self.resolved_url} - {self.header}'
 
 
-async def fetch(session, url, sem):
+async def fetch(session, url, sem=None, offset=False):
+    sem = sem or asyncio.Semaphore(20)
+    if offset:
+        logger.debug('Sleeping a little due to same domain')
+        await asyncio.sleep(randint(1, 7))
     async with sem:
         logger.debug(f'Fetching {url} ..')
         try:
-            response = await session.get(url)
+            response = await session.get(url, timeout=20)
         except Exception:
             logger.exception(f'Error with {url}')
             raise
         txt = await response.text()
-        logger.debug(f'Done with {url} ..')
+        logger.debug(f'Done with {url}')
         return Response(url, str(response.url), txt)
 
 
 async def fetch_all(session, urls):
+    domains = set()
     sem = asyncio.Semaphore(100)
-    results = await asyncio.gather(*[fetch(session, url, sem) for url in urls], return_exceptions=True)
+    tasks = []
+    for url in urls:
+        parsed_url = urlparse(url)
+        tasks.append(fetch(session, url, sem, parsed_url.netloc in domains))
+        domains.add(parsed_url.netloc)
+    results = await asyncio.gather(*tasks, return_exceptions=True)
     for index, url in enumerate(urls):
         status = results[index] if isinstance(results[index], Exception) else 'OK'
         print(f'{url}: {status} >> {results[index]}')
@@ -77,6 +89,20 @@ async def main():
     data = [item for item in data if 'unknown' not in item[1].lower()]
     async with aiohttp.ClientSession() as session:
         results = await fetch_all(session, [i[0] for i in data])
+    session = aiohttp.ClientSession()
+    logger.debug('Going to retry failed urls..')
+    for i, result in enumerate(results):
+        if isinstance(result, Exception):
+            url = data[i][0]
+            logger.debug(f'Trying to get {url} again and slowly')
+            try:
+                new_result = await fetch(session, url)
+            except Exception:
+                logger.exception(f'Request for {url} failed again')
+            else:
+                results[i] = new_result
+            await asyncio.sleep(1)
+    await session.close()
     for item, result in zip(data, results):
         item.append(result if not isinstance(result, Exception) else None)
     build_markdown_extended(data)
