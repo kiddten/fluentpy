@@ -1,0 +1,628 @@
+http://safaribooksonline.com:-:UNKNOWN [LSI]
+mailto:corporate@oreilly.com:-:UNKNOWN [LSI]
+http://oreilly.com/catalog/errata.csp?isbn=9781491946008:-:UNKNOWN [LSI]
+https://mail.python.org/pipermail/python-list/2002-December/147293.html:-:Preface
+https://docs.python.org/3/tutorial/:-:Preface
+https://docs.python.org/3.0/whatsnew/3.0.html:-:Preface
+https://docs.python.org/3/library/doctest.html:-:Preface
+https://github.com/fluentpython/example-code:-:Preface
+http://my.safaribooksonline.com/?portal=oreilly:-:Preface
+http://www.safaribooksonline.com/content:-:Preface
+http://www.safaribooksonline.com/subscriptions:-:Preface
+http://www.safaribooksonline.com/organizations-teams:-:Preface
+http://www.safaribooksonline.com/government:-:Preface
+http://www.safaribooksonline.com/individuals:-:Preface
+http://www.safaribooksonline.com/publishers:-:Preface
+http://www.safaribooksonline.com/:-:Preface
+http://bit.ly/fluent-python:-:Preface
+mailto:bookquestions@oreilly.com:-:Preface
+http://www.oreilly.com:-:Preface
+http://facebook.com/oreilly:-:Preface
+http://twitter.com/oreillymedia:-:Preface
+http://www.youtube.com/oreillymedia:-:Preface
+http://stackoverflow.com/users/95810/alex-martelli:-:Preface
+http://python.pro.br:-:Preface
+https://groups.google.com/group/python-brasil:-:Preface
+http://coffeelab.com.br/:-:Preface
+https://garoa.net.br/:-:Preface
+http://hugunin.net/story_of_jython.html:-:Chapter 1: The Python Data Model
+http://bit.ly/jython-essentials:-:Chapter 1: The Python Data Model
+http://bit.ly/1Vm72Mf:-:Chapter 1: The Python Data Model
+https://mail.python.org/pipermail/python-list/2002-September/112991.html:-:Chapter 1: The Python Data Model
+https://mail.python.org/pipermail/python-list/2002-September/114716.html:-:Chapter 1: The Python Data Model
+http://bit.ly/1Vm7gD1:-:Chapter 1: The Python Data Model
+http://bit.ly/1Vm7j1N:-:Chapter 1: The Python Data Model
+http://docs.python.org/3/library/stdtypes.html#truth:-:Chapter 1: The Python Data Model
+http://docs.python.org/3/reference/datamodel.html:-:Chapter 1: The Python Data Model
+https://www.python.org/doc/humor/#the-zen-of-python:-:Chapter 1: The Python Data Model
+http://bit.ly/Python-IAN:-:Chapter 1: The Python Data Model
+http://stackoverflow.com/users/95810/alex-martelli:-:Chapter 1: The Python Data Model
+http://bit.ly/Python-ckbk:-:Chapter 1: The Python Data Model
+http://en.wikipedia.org/wiki/Object_model:-:Chapter 1: The Python Data Model
+https://docs.python.org/3/reference/datamodel.html:-:Chapter 1: The Python Data Model
+http://docs.zope.org/zope.interface/:-:Chapter 1: The Python Data Model
+http://bit.ly/1Vm6R3n:-:Chapter 2: An array of sequences
+https://github.com/fluentpython/example-code:-:Chapter 2: An array of sequences
+http://python.org/dev/peps/pep-3132/:-:Chapter 2: An array of sequences
+http://docs.python.org/3/library/gettext.html:-:Chapter 2: An array of sequences
+http://python.org/dev/peps/pep-3113/:-:Chapter 2: An array of sequences
+http://wiki.scipy.org/Tentative_NumPy_Tutorial:-:Chapter 2: An array of sequences
+http://www.pythontutor.com/:-:Chapter 2: An array of sequences
+http://en.wikipedia.org/wiki/Fluent_interface:-:Chapter 2: An array of sequences
+http://bit.ly/1Vm6WEa:-:Chapter 2: An array of sequences
+https://docs.python.org/3/library/bisect.html:-:Chapter 2: An array of sequences
+http://bit.ly/py-pickle:-:Chapter 2: An array of sequences
+http://bit.ly/1Vm6C8B:-:Chapter 2: An array of sequences
+http://www.netlib.org:-:Chapter 2: An array of sequences
+http://www.scipy.org/install.html:-:Chapter 2: An array of sequences
+http://pandas.pydata.org:-:Chapter 2: An array of sequences
+http://blaze.pydata.org/en/latest/:-:Chapter 2: An array of sequences
+http://bit.ly/Python-ckbk:-:Chapter 2: An array of sequences
+http://docs.python.org/3/howto/sorting.html:-:Chapter 2: An array of sequences
+http://bugs.python.org/issue2292:-:Chapter 2: An array of sequences
+https://www.python.org/dev/peps/pep-0448/:-:Chapter 2: An array of sequences
+http://bit.ly/1Vm6K7Y:-:Chapter 2: An array of sequences
+http://bit.ly/py-data-analysis:-:Chapter 2: An array of sequences
+http://ipython.org/notebook.html:-:Chapter 2: An array of sequences
+https://docs.python.org/3/library/collections.html:-:Chapter 2: An array of sequences
+https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html:-:Chapter 2: An array of sequences
+https://docs.python.org/3/reference/datamodel.html#objects-values-and-types:-:Chapter 2: An array of sequences
+http://en.wikipedia.org/wiki/Timsort:-:Chapter 2: An array of sequences
+http://bit.ly/1Vm6Ool:-:Chapter 2: An array of sequences
+https://www.python.org/doc/humor/#id9:-:Chapter 2: An array of sequences
+http://bit.ly/1K4qjwE:-:Chapter 3: Dictionaries and sets
+http://bit.ly/1QS9Ong:-:Chapter 3: Dictionaries and sets
+http://bit.ly/1QmmPFj:-:Chapter 3: Dictionaries and sets
+http://www.pingo.io/docs/:-:Chapter 3: Dictionaries and sets
+http://bit.ly/1Vm7E4q:-:Chapter 3: Dictionaries and sets
+http://bit.ly/1Vm7I4c::-:Chapter 3: Dictionaries and sets
+http://bit.ly/1JHVi2E:-:Chapter 3: Dictionaries and sets
+http://bit.ly/1FEOPPB:-:Chapter 3: Dictionaries and sets
+https://www.python.org/dev/peps/pep-0455/:-:Chapter 3: Dictionaries and sets
+http://bugs.python.org/issue18986:-:Chapter 3: Dictionaries and sets
+http://bit.ly/1Vm7OJ5:-:Chapter 3: Dictionaries and sets
+https://github.com/fluentpython/example-code:-:Chapter 3: Dictionaries and sets
+http://bugs.python.org/issue8743:-:Chapter 3: Dictionaries and sets
+http://hg.python.org/cpython/file/tip/Objects/dictobject.c:-:Chapter 3: Dictionaries and sets
+http://bit.ly/1FESm0m:-:Chapter 3: Dictionaries and sets
+http://bit.ly/1JzB8rA:-:Chapter 3: Dictionaries and sets
+https://docs.python.org/3/library/collections.html:-:Chapter 3: Dictionaries and sets
+http://shop.oreilly.com/product/0636920027072.do:-:Chapter 3: Dictionaries and sets
+http://oreil.ly/1LGCRLr:-:Chapter 3: Dictionaries and sets
+http://bit.ly/1JzEjiR:-:Chapter 3: Dictionaries and sets
+https://www.python.org/dev/peps/pep-0218/:-:Chapter 3: Dictionaries and sets
+https://www.python.org/dev/peps/pep-0274/:-:Chapter 3: Dictionaries and sets
+http://php.net/manual/en/language.types.array.php:-:Chapter 3: Dictionaries and sets
+http://www.json.org/fatfree.html:-:Chapter 3: Dictionaries and sets
+http://bit.ly/1JzF1MY:-:Chapter 4: Text versus bytes
+http://bit.ly/1JzF37P:-:Chapter 4: Text versus bytes
+https://www.python.org/dev/peps/pep-0461/:-:Chapter 4: Text versus bytes
+https://www.python.org/dev/peps/pep-0467/:-:Chapter 4: Text versus bytes
+https://pillow.readthedocs.org/en/latest/:-:Chapter 4: Text versus bytes
+https://docs.python.org/3/library/mmap.html:-:Chapter 4: Text versus bytes
+http://bit.ly/1Vm7ZnI:-:Chapter 4: Text versus bytes
+http://bit.ly/1Vm7YjA:-:Chapter 4: Text versus bytes
+http://bit.ly/w3techs-en:-:Chapter 4: Text versus bytes
+http://trends.builtwith.com/encoding:-:Chapter 4: Text versus bytes
+http://bit.ly/1Vm83DZ:-:Chapter 4: Text versus bytes
+https://pypi.python.org/pypi/chardet:-:Chapter 4: Text versus bytes
+http://nedbatchelder.com/text/unipain/unipain.html:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqvCUZ:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqvSU2:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqvN2J:-:Chapter 4: Text versus bytes
+https://docs.python.org/3/howto/unicode.html:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqvRPV:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqvYLp:-:Chapter 4: Text versus bytes
+http://www.w3.org/TR/charmod-norm/:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqyCRf:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqyKAl:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqyP79:-:Chapter 4: Text versus bytes
+https://pypi.python.org/pypi/pyuca/:-:Chapter 4: Text versus bytes
+https://github.com/jtauber/pyuca:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqAk54:-:Chapter 4: Text versus bytes
+https://docs.python.org/3/library/unicodedata.html:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqE2vH:-:Chapter 4: Text versus bytes
+https://docs.python.org/3/library/re.html:-:Chapter 4: Text versus bytes
+https://www.python.org/dev/peps/pep-0383/:-:Chapter 4: Text versus bytes
+http://nedbatchelder.com/text/unipain.html:-:Chapter 4: Text versus bytes
+https://regebro.wordpress.com/2011/03/23/unconfusing-unicode-what-is-unicode/:-:Chapter 4: Text versus bytes
+http://www.diveintopython3.net/strings.html:-:Chapter 4: Text versus bytes
+http://www.diveintopython3.net:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqJ63d:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqJ8YH:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqJcrD:-:Chapter 4: Text versus bytes
+http://shop.oreilly.com/product/0636920027072.do:-:Chapter 4: Text versus bytes
+http://bit.ly/1dYuNJa:-:Chapter 4: Text versus bytes
+http://bit.ly/1dYuRbS:-:Chapter 4: Text versus bytes
+https://docs.python.org/3/library/codecs.html#standard-encodings:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqKrqD:-:Chapter 4: Text versus bytes
+http://bit.ly/1IqKu5I:-:Chapter 4: Text versus bytes
+http://blog.ziade.org/2008/01/08/syssetdefaultencoding-is-evil/:-:Chapter 4: Text versus bytes
+http://shop.oreilly.com/product/9780596101213.do:-:Chapter 4: Text versus bytes
+http://bit.ly/1dYveDl:-:Chapter 4: Text versus bytes
+http://unicodebook.readthedocs.org/index.html:-:Chapter 4: Text versus bytes
+http://www.w3.org/International/wiki/Case_folding:-:Chapter 4: Text versus bytes
+http://unicode.org/reports/tr15/:-:Chapter 4: Text versus bytes
+http://www.unicode.org/faq/normalization.html:-:Chapter 4: Text versus bytes
+http://www.unicode.org/:-:Chapter 4: Text versus bytes
+http://www.macchiato.com/unicode/nfc-faq:-:Chapter 4: Text versus bytes
+http://www.unicode.org/glossary/#plain_text:-:Chapter 4: Text versus bytes
+http://www.methods.co.nz/asciidoc/:-:Chapter 4: Text versus bytes
+https://atlas.oreilly.com/:-:Chapter 4: Text versus bytes
+https://www.python.org/dev/peps/pep-0393/:-:Chapter 4: Text versus bytes
+http://bit.ly/1FHfhIo:-:Chapter 5: First-class functions
+http://docs.python.org/3/howto/functional.html:-:Chapter 5: First-class functions
+https://docs.djangoproject.com/en/1.5/ref/contrib/admin:-:Chapter 5: First-class functions
+https://www.python.org/dev/peps/pep-3155/:-:Chapter 5: First-class functions
+http://bit.ly/1Vm8cqQ:-:Chapter 5: First-class functions
+http://shop.oreilly.com/product/0636920027072.do:-:Chapter 5: First-class functions
+http://bit.ly/1Vm8dv2:-:Chapter 5: First-class functions
+https://www.python.org/dev/peps/pep-3102/:-:Chapter 5: First-class functions
+https://www.python.org/dev/peps/pep-3107/:-:Chapter 5: First-class functions
+http://bit.ly/1FHiOXf:-:Chapter 5: First-class functions
+http://bit.ly/1FHiN5F:-:Chapter 5: First-class functions
+https://www.python.org/dev/peps/pep-0362/:-:Chapter 5: First-class functions
+https://github.com/kachayev/fn.py:-:Chapter 5: First-class functions
+http://bit.ly/1FHiTdh:-:Chapter 5: First-class functions
+http://bobo.readthedocs.org/en/latest/:-:Chapter 5: First-class functions
+http://bit.ly/1FHiUxR:-:Chapter 5: First-class functions
+http://bit.ly/1FHj4p2:-:Chapter 5: First-class functions
+http://hg.python.org/cpython/file/default/Misc/HISTORY:-:Chapter 5: First-class functions
+http://bit.ly/1FHjdZv:-:Chapter 5: First-class functions
+http://norvig.com/design-patterns/:-:Chapter 6: Design patterns with first-class functions
+http://bit.ly/1HGC0r5:-:Chapter 6: Design patterns with first-class functions
+http://shop.oreilly.com/product/0636920027072.do:-:Chapter 6: Design patterns with first-class functions
+http://bit.ly/1HGBXvx:-:Chapter 6: Design patterns with first-class functions
+http://www.aleax.it/gdd_pydp.pdf:-:Chapter 6: Design patterns with first-class functions
+http://bit.ly/1HGBXeQ:-:Chapter 6: Design patterns with first-class functions
+http://docs.python.org/3/library/dis.html:-:Chapter 7: Function decorators and closures
+http://www.python.org/dev/peps/pep-3104/:-:Chapter 7: Function decorators and closures
+https://pypi.python.org/pypi/singledispatch:-:Chapter 7: Function decorators and closures
+https://www.python.org/dev/peps/pep-0443/:-:Chapter 7: Function decorators and closures
+http://bit.ly/1DePPcl:-:Chapter 7: Function decorators and closures
+http://bit.ly/1DePVRi:-:Chapter 7: Function decorators and closures
+http://wrapt.readthedocs.org/en/latest/:-:Chapter 7: Function decorators and closures
+https://pypi.python.org/pypi/decorator:-:Chapter 7: Function decorators and closures
+https://wiki.python.org/moin/PythonDecoratorLibrary:-:Chapter 7: Function decorators and closures
+http://www.python.org/dev/peps/pep-0443/:-:Chapter 7: Function decorators and closures
+http://www.artima.com/weblogs/viewpost.jsp?thread=101605:-:Chapter 7: Function decorators and closures
+http://reg.readthedocs.org/en/latest/:-:Chapter 7: Function decorators and closures
+http://morepath.readthedocs.org/en/latest/:-:Chapter 7: Function decorators and closures
+http://effbot.org/zone/closure.htm:-:Chapter 7: Function decorators and closures
+http://www.python.org/dev/peps/pep-0227/:-:Chapter 7: Function decorators and closures
+http://www.paulgraham.com/rootsoflisp.html:-:Chapter 7: Function decorators and closures
+http://bit.ly/mccarthy_recursive:-:Chapter 7: Function decorators and closures
+http://bit.ly/1Vm9gv4:-:Chapter 8: Object references, mutability and recycling
+http://www.pythontutor.com/:-:Chapter 8: Object references, mutability and recycling
+http://docs.python.org/3/library/copy.html:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/1GsWPac:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/1GsWTa7:-:Chapter 8: Object references, mutability and recycling
+http://docs.python.org/3/library/weakref.html:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/1GsXB6Z:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/1GsZwss:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/1GsZvEO:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/1HGCayS:-:Chapter 8: Object references, mutability and recycling
+http://pymotw.com:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/py-libex:-:Chapter 8: Object references, mutability and recycling
+http://pymotw.com/2/copy/:-:Chapter 8: Object references, mutability and recycling
+http://pymotw.com/2/weakref/:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/1HGCbmj:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/1FSDBpM:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/1HGCde7:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/1HGCduC:-:Chapter 8: Object references, mutability and recycling
+http://bit.ly/1Gt0HrJ:-:Chapter 8: Object references, mutability and recycling
+http://pythonpaste.org/StyleGuide.html:-:Chapter 9: A Pythonic object
+http://bit.ly/1FSFTW6:-:Chapter 9: A Pythonic object
+http://bit.ly/1Gt4vJF:-:Chapter 9: A Pythonic object
+https://docs.python.org/3/reference/datamodel.html:-:Chapter 9: A Pythonic object
+http://bit.ly/1Gt95rp:-:Chapter 9: A Pythonic object
+http://bit.ly/1Gt9cDg:-:Chapter 9: A Pythonic object
+http://www.numpy.org:-:Chapter 9: A Pythonic object
+http://pandas.pydata.org:-:Chapter 9: A Pythonic object
+https://docs.python.org/3/library/string.html#formatspec:-:Chapter 9: A Pythonic object
+http://bit.ly/1GsZwss:-:Chapter 9: A Pythonic object
+http://bit.ly/1Vma6b2:-:Chapter 9: A Pythonic object
+http://shop.oreilly.com/product/9780596100469.do:-:Chapter 9: A Pythonic object
+http://shop.oreilly.com/product/0636920027072.do:-:Chapter 9: A Pythonic object
+https://docs.python.org/2.5/whatsnew/pep-357.html:-:Chapter 9: A Pythonic object
+https://www.python.org/dev/peps/pep-0357/:-:Chapter 9: A Pythonic object
+http://bit.ly/1IIKX6t:-:Chapter 9: A Pythonic object
+http://www.artima.com/intv/simplest3.html:-:Chapter 9: A Pythonic object
+https://github.com/fluentpython/example-code:-:Chapter 9: A Pythonic object
+http://bit.ly/1IIMdqd:-:Chapter 9: A Pythonic object
+http://en.wikipedia.org/wiki/Vector_space_model:-:Chapter 10: Sequence hacking, hashing and slicing
+https://pypi.python.org/pypi/gensim:-:Chapter 10: Sequence hacking, hashing and slicing
+https://docs.python.org/3/c-api/slice.html#c.PySlice_GetIndicesEx:-:Chapter 10: Sequence hacking, hashing and slicing
+http://bit.ly/1QOtsk8:-:Chapter 10: Sequence hacking, hashing and slicing
+http://mathworld.wolfram.com/Hypersphere.html:-:Chapter 10: Sequence hacking, hashing and slicing
+http://en.wikipedia.org/wiki/N-sphere:-:Chapter 10: Sequence hacking, hashing and slicing
+https://docs.python.org/3/library/string.html#formatspec:-:Chapter 10: Sequence hacking, hashing and slicing
+http://en.wikipedia.org/wiki/Fold_(higher-order_function):-:Chapter 10: Sequence hacking, hashing and slicing
+http://bit.ly/pydocs-smn:-:Chapter 10: Sequence hacking, hashing and slicing
+http://en.wikipedia.org/wiki/KISS_principle:-:Chapter 10: Sequence hacking, hashing and slicing
+http://bit.ly/1QOuTPx:-:Chapter 10: Sequence hacking, hashing and slicing
+http://en.wikipedia.org/wiki/Duck_typing:-:Chapter 10: Sequence hacking, hashing and slicing
+https://github.com/fluentpython/example-code:-:Chapter 10: Sequence hacking, hashing and slicing
+https://mail.python.org/mailman/listinfo/python-list:-:Chapter 10: Sequence hacking, hashing and slicing
+http://bit.ly/1QOv5y5:-:Chapter 10: Sequence hacking, hashing and slicing
+http://bit.ly/1QOxU2e:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bit.ly/1MDR1Lw:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bugs.python.org/issue16518:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bugs.python.org/issue22581:-:Chapter 11: Interfaces: from protocols to ABCs
+https://docs.python.org/3/library/random.html#random.shuffle:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bit.ly/1QOyDQY:-:Chapter 11: Interfaces: from protocols to ABCs
+http://en.wikipedia.org/wiki/Duck_typing#History:-:Chapter 11: Interfaces: from protocols to ABCs
+http://ptgmedia.pearsoncmg.com/images/020163371x/items/item33.html:-:Chapter 11: Interfaces: from protocols to ABCs
+https://docs.python.org/3/library/collections.html#collections.namedtuple:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bit.ly/1QOA3Lt:-:Chapter 11: Interfaces: from protocols to ABCs
+https://hg.python.org/cpython/file/3.4/Lib/abc.py:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bit.ly/1QOA9T8:-:Chapter 11: Interfaces: from protocols to ABCs
+https://docs.python.org/3/library/numbers.html:-:Chapter 11: Interfaces: from protocols to ABCs
+https://docs.python.org/3/library/abc.html:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bit.ly/1QOFpGB:-:Chapter 11: Interfaces: from protocols to ABCs
+https://docs.python.org/dev/library/abc.html:-:Chapter 11: Interfaces: from protocols to ABCs
+http://docs.python.org/3/library/os.html#os.urandom:-:Chapter 11: Interfaces: from protocols to ABCs
+https://docs.python.org/3/library/stdtypes.html#truth:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bit.ly/1QOG4aP:-:Chapter 11: Interfaces: from protocols to ABCs
+https://hg.python.org/cpython/file/3.4/Lib/abc.py#l194:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bit.ly/1QOGle5:-:Chapter 11: Interfaces: from protocols to ABCs
+http://pymotw.com/:-:Chapter 11: Interfaces: from protocols to ABCs
+https://github.com/garoa/pingo/blob/master/pingo/board.py:-:Chapter 11: Interfaces: from protocols to ABCs
+http://pingo.io/:-:Chapter 11: Interfaces: from protocols to ABCs
+http://shop.oreilly.com/product/0636920027072.do:-:Chapter 11: Interfaces: from protocols to ABCs
+http://pymotw.com/2/abc/index.html:-:Chapter 11: Interfaces: from protocols to ABCs
+https://www.python.org/dev/peps/pep-3119:-:Chapter 11: Interfaces: from protocols to ABCs
+https://www.python.org/dev/peps/pep-3141:-:Chapter 11: Interfaces: from protocols to ABCs
+http://www.artima.com/intv/pycontract.html:-:Chapter 11: Interfaces: from protocols to ABCs
+http://docs.zope.org/zope.interface/:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bit.ly/1QOHa6x:-:Chapter 11: Interfaces: from protocols to ABCs
+http://muthukadan.net/docs/zca.html:-:Chapter 11: Interfaces: from protocols to ABCs
+http://www.mypy-lang.org/:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bit.ly/1QOHhyX:-:Chapter 11: Interfaces: from protocols to ABCs
+https://www.python.org/dev/peps/pep-0484/:-:Chapter 11: Interfaces: from protocols to ABCs
+https://www.python.org/dev/peps/pep-0482/:-:Chapter 11: Interfaces: from protocols to ABCs
+https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html:-:Chapter 11: Interfaces: from protocols to ABCs
+http://brewhouse.io/blog/2014/09/19/ruby-kaigi-2014-day-2:-:Chapter 11: Interfaces: from protocols to ABCs
+http://propella.sakura.ne.jp/earlyHistoryST/EarlyHistoryST.html:-:Chapter 11: Interfaces: from protocols to ABCs
+http://bit.ly/1JHNmhX:-:Chapter 12: Inheritance: for good or for worse
+http://docs.python.org/3/library/collections.html:-:Chapter 12: Inheritance: for good or for worse
+https://github.com/fluentpython/example-code:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1OwVqBd:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1JHPsyk:-:Chapter 12: Inheritance: for good or for worse
+https://docs.python.org/3/library/tkinter.html:-:Chapter 12: Inheritance: for good or for worse
+https://docs.python.org/3/library/tkinter.ttk.html:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1JHQqKU:-:Chapter 12: Inheritance: for good or for worse
+http://ccbv.co.uk/:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1JHSoe8:-:Chapter 12: Inheritance: for good or for worse
+http://en.wikipedia.org/wiki/Template_method_pattern:-:Chapter 12: Inheritance: for good or for worse
+https://docs.python.org/3/library/collections.html:-:Chapter 12: Inheritance: for good or for worse
+https://docs.python.org/3/library/collections.abc.html:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1QOA3Lt:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1JHSZfW:-:Chapter 12: Inheritance: for good or for worse
+https://fuhm.net/super-harmful/:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1HGpYxV:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1HGpXdj:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1HGpXtQ:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1HGq0G9:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1HGq1d4:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1HGq1K7:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1HGq48I:-:Chapter 12: Inheritance: for good or for worse
+http://www.gotw.ca/publications/c_family_interview.htm:-:Chapter 12: Inheritance: for good or for worse
+http://bit.ly/1JHV4bN:-:Chapter 13: Operator overloading: doing it right
+https://docs.python.org/3/reference/datamodel.html#object.__neg__:-:Chapter 13: Operator overloading: doing it right
+http://bit.ly/1JHVi2E:-:Chapter 13: Operator overloading: doing it right
+http://bit.ly/1QOyDQY:-:Chapter 13: Operator overloading: doing it right
+https://docs.python.org/3/reference/datamodel.html:-:Chapter 13: Operator overloading: doing it right
+http://bit.ly/1JHWP8W:-:Chapter 13: Operator overloading: doing it right
+https://github.com/fluentpython/example-code:-:Chapter 13: Operator overloading: doing it right
+https://www.python.org/dev/peps/pep-0465/:-:Chapter 13: Operator overloading: doing it right
+http://bit.ly/1C11uL7:-:Chapter 13: Operator overloading: doing it right
+http://bit.ly/1C11zP5:-:Chapter 13: Operator overloading: doing it right
+http://bugs.python.org/issue4395:-:Chapter 13: Operator overloading: doing it right
+https://www.python.org/dev/peps/pep-0008/#imports:-:Chapter 13: Operator overloading: doing it right
+http://bit.ly/1C12IWF:-:Chapter 13: Operator overloading: doing it right
+http://bit.ly/1FVhejw:-:Chapter 13: Operator overloading: doing it right
+http://bit.ly/1QrnuuD:-:Chapter 13: Operator overloading: doing it right
+http://www.gotw.ca/publications/c_family_interview.htm:-:Chapter 13: Operator overloading: doing it right
+http://bit.ly/1C12T4t:-:Chapter 13: Operator overloading: doing it right
+http://www.call-cc.org/:-:Chapter 13: Operator overloading: doing it right
+http://www.paulgraham.com/icad.html:-:Chapter 13: Operator overloading: doing it right
+http://bit.ly/1C14QOi:-:Chapter 14: Iterables, iterators and generators
+https://hg.python.org/cpython/file/3.4/Lib/types.py:-:Chapter 14: Iterables, iterators and generators
+https://www.python.org/dev/peps/pep-0255/:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1JIbIYO:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1JItSti:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1HGqqwh:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/py-itertools:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1wpQv0i:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1HGqw70:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1HGqzzT:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1MM5aXD:-:Chapter 14: Iterables, iterators and generators
+http://www.dabeaz.com/coroutines/Coroutines.pdf:-:Chapter 14: Iterables, iterators and generators
+http://catb.org/~esr/jargon/html/G/grok.html:-:Chapter 14: Iterables, iterators and generators
+https://www.python.org/dev/peps/pep-0342/:-:Chapter 14: Iterables, iterators and generators
+http://www.dabeaz.com/coroutines/:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1MM5Xb5:-:Chapter 14: Iterables, iterators and generators
+https://docs.python.org/3/library/itertools.html:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1MM5YvA:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1MM6d9R:-:Chapter 14: Iterables, iterators and generators
+http://journal.code4lib.org/articles/4893:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1MM6Sbm:-:Chapter 14: Iterables, iterators and generators
+https://docs.python.org/3/library/types.html#types.GeneratorType:-:Chapter 14: Iterables, iterators and generators
+http://docs.python.org/dev/glossary.html#term-iterator:-:Chapter 14: Iterables, iterators and generators
+https://docs.python.org/3/glossary.html#term-iterator:-:Chapter 14: Iterables, iterators and generators
+https://docs.python.org/3/glossary.html#term-generator:-:Chapter 14: Iterables, iterators and generators
+http://pyvideo.org/video/1669/keynote-3:-:Chapter 14: Iterables, iterators and generators
+http://bit.ly/1MMa1YB:-:Chapter 15: Context managers and else blocks
+https://docs.python.org/3/glossary.html#term-eafp:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MM7Sw6:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MM82Uc:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MM89PC:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MM8guy:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MM8eTw:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MM8imk:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1HGqZpJ:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MM8AJJ:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MM96aR:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1HGr6Sq:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MM9pCm:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MMa2Mp:-:Chapter 15: Context managers and else blocks
+http://shop.oreilly.com/product/9780596100469.do:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MMacTS:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MMab2e:-:Chapter 15: Context managers and else blocks
+https://www.python.org/dev/peps/pep-0343/:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MMagmB:-:Chapter 15: Context managers and else blocks
+http://bit.ly/1MMakmm:-:Chapter 15: Context managers and else blocks
+http://shop.oreilly.com/product/0636920027072.do:-:Chapter 15: Context managers and else blocks
+http://pyvideo.org/video/1669/keynote-3:-:Chapter 15: Context managers and else blocks
+https://www.python.org/dev/peps/pep-0342/:-:Chapter 16: Coroutines
+https://www.python.org/dev/peps/pep-0380/:-:Chapter 16: Coroutines
+http://bit.ly/1MMc9zy:-:Chapter 16: Coroutines
+http://bit.ly/1MMcano:-:Chapter 16: Coroutines
+http://bit.ly/1MMcuCx:-:Chapter 16: Coroutines
+http://bit.ly/1MMcGBF:-:Chapter 16: Coroutines
+https://docs.python.org/3/reference/expressions.html#generator-iterator-methods:-:Chapter 16: Coroutines
+https://github.com/tecki/ipython-yf:-:Chapter 16: Coroutines
+http://bugs.python.org/issue22412:-:Chapter 16: Coroutines
+https://www.python.org/dev/peps/pep-0492/:-:Chapter 16: Coroutines
+http://shop.oreilly.com/product/0636920027072.do:-:Chapter 16: Coroutines
+http://bit.ly/1MMe1sc:-:Chapter 16: Coroutines
+http://flupy.org/resources/yield-from.pdf:-:Chapter 16: Coroutines
+http://bit.ly/1HGrnVq:-:Chapter 16: Coroutines
+http://bit.ly/1JIofLL:-:Chapter 16: Coroutines
+http://bit.ly/1JIopTu:-:Chapter 16: Coroutines
+https://www.python.org/dev/peps/pep-0380/#proposal:-:Chapter 16: Coroutines
+http://bit.ly/1JIoXJ1:-:Chapter 16: Coroutines
+http://bit.ly/1HGs4Oz:-:Chapter 16: Coroutines
+http://bit.ly/1HGs3Kl:-:Chapter 16: Coroutines
+http://bit.ly/1JIqjn6:-:Chapter 16: Coroutines
+http://www.dabeaz.com/coroutines/:-:Chapter 16: Coroutines
+http://www.dabeaz.com/generators/:-:Chapter 16: Coroutines
+http://pyvideo.org/video/213:-:Chapter 16: Coroutines
+http://pyvideo.org/video/215:-:Chapter 16: Coroutines
+http://pyvideo.org/video/214:-:Chapter 16: Coroutines
+http://www.dabeaz.com/finalgenerator/:-:Chapter 16: Coroutines
+http://bit.ly/1HGsFQ0:-:Chapter 16: Coroutines
+http://bit.ly/1HGsFzA:-:Chapter 16: Coroutines
+https://code.activestate.com/recipes/:-:Chapter 16: Coroutines
+http://micropython.org:-:Chapter 16: Coroutines
+http://bit.ly/1JIqGxW:-:Chapter 16: Coroutines
+http://bit.ly/1JIqJtu:-:Chapter 16: Coroutines
+http://www.effectivepython.com:-:Chapter 16: Coroutines
+http://bit.ly/1JIqNcZ:-:Chapter 16: Coroutines
+http://bit.ly/1HGsKDw:-:Chapter 16: Coroutines
+https://github.com/bslatkin/effectivepython:-:Chapter 16: Coroutines
+http://bit.ly/1JIqO0l:-:Chapter 16: Coroutines
+http://bit.ly/1HGsO6j:-:Chapter 16: Coroutines
+http://bit.ly/coro_life:-:Chapter 16: Coroutines
+http://bit.ly/1JIqSxf:-:Chapter 16: Coroutines
+http://bit.ly/1JIqQ8x:-:Chapter 16: Coroutines
+http://bit.ly/1JIqT44:-:Chapter 16: Coroutines
+http://bit.ly/1JIqRcv:-:Chapter 16: Coroutines
+http://bit.ly/1JIqXB1:-:Chapter 16: Coroutines
+http://bit.ly/1JIqWgz:-:Chapter 16: Coroutines
+https://simpy.readthedocs.org/en/latest/:-:Chapter 16: Coroutines
+http://lambda-the-ultimate.org/node/4295:-:Chapter 16: Coroutines
+http://lambda-the-ultimate.org/:-:Chapter 16: Coroutines
+http://bit.ly/1JIrIdh:-:Chapter 16: Coroutines
+http://mzl.la/1JIr8fM:-:Chapter 16: Coroutines
+http://php.net/manual/en/reserved.keywords.php:-:Chapter 16: Coroutines
+http://en.cppreference.com/w/cpp/keyword:-:Chapter 16: Coroutines
+http://ibm.co/1JIr7bJ:-:Chapter 16: Coroutines
+http://bit.ly/1JIrB1w:-:Chapter 16: Coroutines
+http://bit.ly/1JIrAL1:-:Chapter 16: Coroutines
+http://bit.ly/1JIrNgY:-:Chapter 16: Coroutines
+http://bit.ly/1JIrPp9:-:Chapter 16: Coroutines
+http://bit.ly/1JIrYZQ:-:Chapter 16: Coroutines
+https://pypi.python.org/pypi/futures/:-:Chapter 16: Coroutines
+https://www.youtube.com/watch?v=A9e9Cy1UkME:-:Chapter 17: Concurrency with futures
+http://bit.ly/1JIsg2L:-:Chapter 17: Concurrency with futures
+https://github.com/fluentpython/example-code:-:Chapter 17: Concurrency with futures
+http://1.usa.gov/1JIsmHJ:-:Chapter 17: Concurrency with futures
+https://pypi.python.org/pypi/requests:-:Chapter 17: Concurrency with futures
+http://bit.ly/1JIsEOW:-:Chapter 17: Concurrency with futures
+http://www.dabeaz.com/finalgenerator/:-:Chapter 17: Concurrency with futures
+https://docs.python.org/3/library/concurrent.futures.html:-:Chapter 17: Concurrency with futures
+http://pypy.org/:-:Chapter 17: Concurrency with futures
+http://bit.ly/1JItSti:-:Chapter 17: Concurrency with futures
+https://github.com/noamraph/tqdm:-:Chapter 17: Concurrency with futures
+https://www.youtube.com/watch?v=M8Z65tAl5l4:-:Chapter 17: Concurrency with futures
+https://github.com/noamraph/tqdm/blob/master/README.md:-:Chapter 17: Concurrency with futures
+http://bit.ly/1JIufV1:-:Chapter 17: Concurrency with futures
+http://www.cloudflare.com/:-:Chapter 17: Concurrency with futures
+https://docs.python.org/3/library/threading.html:-:Chapter 17: Concurrency with futures
+https://docs.python.org/3/library/queue.html:-:Chapter 17: Concurrency with futures
+https://docs.python.org/3/library/multiprocessing.html:-:Chapter 17: Concurrency with futures
+http://bit.ly/1JIuZJy:-:Chapter 17: Concurrency with futures
+https://www.python.org/dev/peps/pep-3148/:-:Chapter 17: Concurrency with futures
+http://bit.ly/1JIv1kA:-:Chapter 17: Concurrency with futures
+http://shop.oreilly.com/product/0636920027072.do:-:Chapter 17: Concurrency with futures
+http://www.effectivepython.com/:-:Chapter 17: Concurrency with futures
+http://shop.oreilly.com/product/0636920028963.do:-:Chapter 17: Concurrency with futures
+http://bit.ly/1HGtb0F:-:Chapter 17: Concurrency with futures
+http://bit.ly/1HGtcBF:-:Chapter 17: Concurrency with futures
+http://bit.ly/1JIvgwd:-:Chapter 17: Concurrency with futures
+http://www.dabeaz.com/GIL/:-:Chapter 17: Concurrency with futures
+http://bit.ly/1HGtCrK:-:Chapter 17: Concurrency with futures
+http://bugs.python.org/issue7946#msg223110:-:Chapter 17: Concurrency with futures
+http://www.dabeaz.com/coroutines/:-:Chapter 17: Concurrency with futures
+https://www.python.org/dev/peps/pep-0371/:-:Chapter 17: Concurrency with futures
+http://bit.ly/multi-docs:-:Chapter 17: Concurrency with futures
+https://spark.apache.org:-:Chapter 17: Concurrency with futures
+https://spark.apache.org/examples.html:-:Chapter 17: Concurrency with futures
+https://pypi.python.org/pypi/lelo:-:Chapter 17: Concurrency with futures
+http://bit.ly/1HGtF6Q:-:Chapter 17: Concurrency with futures
+http://bit.ly/1HGtGaR:-:Chapter 17: Concurrency with futures
+http://bit.ly/1OwVTUf:-:Chapter 17: Concurrency with futures
+http://bit.ly/1HGtMiO:-:Chapter 18: Concurrency with asyncio
+https://pypi.python.org/pypi/asyncio:-:Chapter 18: Concurrency with asyncio
+http://trollius.readthedocs.org:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1Ox3vWA:-:Chapter 18: Concurrency with asyncio
+https://www.python.org/dev/peps/pep-3156/:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1JIwJmc:-:Chapter 18: Concurrency with asyncio
+https://docs.python.org/3/library/asyncio-task.html:-:Chapter 18: Concurrency with asyncio
+https://pypi.python.org/pypi/Quamash/:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1JIwZS2:-:Chapter 18: Concurrency with asyncio
+https://www.youtube.com/watch?v=M-sc73Y-zQA:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGtQzc:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1JIsg2L:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1f6ChKk:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1JItSti:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1f6Csp8:-:Chapter 18: Concurrency with asyncio
+https://www.python.org/dev/peps/pep-3134/:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1f6CBZx:-:Chapter 18: Concurrency with asyncio
+http://survivejs.com/common_problems/pyramid.html:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1f6CY6B:-:Chapter 18: Concurrency with asyncio
+https://github.com/fluentpython/example-code:-:Chapter 18: Concurrency with asyncio
+https://docs.python.org/3/library/asyncio-stream.html:-:Chapter 18: Concurrency with asyncio
+https://docs.python.org/3/library/asyncio-protocol.html:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1f6D9i6:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGu5dz:-:Chapter 18: Concurrency with asyncio
+https://aiopg.readthedocs.org/en/stable/:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1f6DGRi:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGuPPE:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGuuwq:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGurAX:-:Chapter 18: Concurrency with asyncio
+https://docs.python.org/3/library/asyncio-dev.html:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1f6DIZo:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGuRY2:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGub4K:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1f6DJwj:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGueh0:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGudd0:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGuexy:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGuf4D:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGufBq:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGuoos:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGulck:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGumwZ:-:Chapter 18: Concurrency with asyncio
+http://asyncio.org:-:Chapter 18: Concurrency with asyncio
+https://github.com/aio-libs:-:Chapter 18: Concurrency with asyncio
+http://aiohttp.readthedocs.org/en/:-:Chapter 18: Concurrency with asyncio
+http://vaurien.readthedocs.org/en/1.8/:-:Chapter 18: Concurrency with asyncio
+https://mozilla-services.github.io/:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1xNcNHZ:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGuUTy:-:Chapter 18: Concurrency with asyncio
+http://tornado.readthedocs.org/en/latest/asyncio.html:-:Chapter 18: Concurrency with asyncio
+http://autobahn.ws/python/:-:Chapter 18: Concurrency with asyncio
+http://aaugustin.github.io/websockets/:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGuVGY:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1f6E2qT:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1HGuXPa:-:Chapter 18: Concurrency with asyncio
+http://shop.oreilly.com/product/9780596100469.do:-:Chapter 18: Concurrency with asyncio
+http://bit.ly/1TxUXBP:-:Chapter 19: Dynamic attributes and properties
+http://www.oreilly.com/pub/sc/osconfeed:-:Chapter 19: Dynamic attributes and properties
+https://pypi.python.org/pypi/attrdict:-:Chapter 19: Dynamic attributes and properties
+https://pypi.python.org/pypi/addict:-:Chapter 19: Dynamic attributes and properties
+https://docs.python.org/3/library/shelve.html:-:Chapter 19: Dynamic attributes and properties
+https://docs.python.org/3/library/dbm.html:-:Chapter 19: Dynamic attributes and properties
+https://docs.python.org/3/library/pickle.html:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1cPM8T3:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1cPLZzd:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1cPM2uJ:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1cPM1qG:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1cPM4Ti:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1cPMnNZ:-:Chapter 19: Dynamic attributes and properties
+https://github.com/fluentpython/example-code:-:Chapter 19: Dynamic attributes and properties
+http://on.wsj.com/1ECl8Dl:-:Chapter 19: Dynamic attributes and properties
+http://shop.oreilly.com/product/0636920027072.do:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1HGvLDV:-:Chapter 19: Dynamic attributes and properties
+https://docs.python.org/3/library/functions.html#hasattr:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1cPO3qP:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1cPOrpc:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1cPOlxV:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1cPOodb:-:Chapter 19: Dynamic attributes and properties
+http://shop.oreilly.com/product/9780596100469.do:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1HGvZuA:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1HGvNvk:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1cPOMIE:-:Chapter 19: Dynamic attributes and properties
+http://www.pingo.io/docs/:-:Chapter 19: Dynamic attributes and properties
+http://ipython.org/notebook.html:-:Chapter 19: Dynamic attributes and properties
+http://ubm.io/1cPP4PN:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1HGvYH7:-:Chapter 19: Dynamic attributes and properties
+https://docs.python.org/3/howto/descriptor.html:-:Chapter 19: Dynamic attributes and properties
+http://bit.ly/1GsZwss:-:Chapter 20: Attribute descriptors
+http://bit.ly/1HGwlS3:-:Chapter 20: Attribute descriptors
+http://bit.ly/1HGwnsV:-:Chapter 20: Attribute descriptors
+http://bit.ly/1HGwoxa:-:Chapter 20: Attribute descriptors
+http://bit.ly/1HGwp46:-:Chapter 20: Attribute descriptors
+http://bit.ly/1HGwvIZ:-:Chapter 20: Attribute descriptors
+http://bit.ly/1cPSaDh:-:Chapter 20: Attribute descriptors
+http://bit.ly/1CAyiQY:-:Chapter 20: Attribute descriptors
+http://bit.ly/1e8iABS:-:Chapter 20: Attribute descriptors
+http://bit.ly/1HGwxRl:-:Chapter 21: Class metaprogramming
+http://bit.ly/1HGwAfW:-:Chapter 21: Class metaprogramming
+http://bit.ly/1cPOodb:-:Chapter 21: Class metaprogramming
+http://www.python.org/dev/peps/pep-3155:-:Chapter 21: Class metaprogramming
+http://bit.ly/1HGwGnI:-:Chapter 21: Class metaprogramming
+https://docs.python.org/3/library/functions.html#type:-:Chapter 21: Class metaprogramming
+http://bit.ly/1HGwF3b:-:Chapter 21: Class metaprogramming
+http://amzn.to/1HGwKDO:-:Chapter 21: Class metaprogramming
+http://bit.ly/1HGwIvW:-:Chapter 21: Class metaprogramming
+http://bit.ly/1HGwJ2Y:-:Chapter 21: Class metaprogramming
+http://bit.ly/1HGwMvx:-:Chapter 21: Class metaprogramming
+https://www.python.org/dev/peps/pep-3115/:-:Chapter 21: Class metaprogramming
+http://bit.ly/1HGwN2D:-:Chapter 21: Class metaprogramming
+https://www.python.org/dev/peps/pep-0487/:-:Chapter 21: Class metaprogramming
+https://github.com/lihaoyi/macropy:-:Chapter 21: Class metaprogramming
+https://www.eecs.berkeley.edu/~bh/ss-toc2.html:-:Chapter 21: Class metaprogramming
+https://groups.google.com/forum/#!topic/python-tulip/Y4bhLNbKs74:-:Chapter 21: Class metaprogramming
+https://docs.python.org/3/library/asyncio-eventloop.html#executor:-:Chapter 21: Class metaprogramming
+http://www.oreilly.com/catalog/errata.csp?isbn=0636920032519:-:Afterword
+https://www.youtube.com/watch?v=x-kB2o8sd5c:-:Afterword
+https://www.youtube.com/watch?v=OSGv2VnC0go:-:Afterword
+http://bit.ly/1e8pV4h:-:Afterword
+https://pypi.python.org/pypi/pep8/:-:Afterword
+https://pypi.python.org/pypi/flake8:-:Afterword
+https://pypi.python.org/pypi/pyflakes:-:Afterword
+https://pypi.python.org/pypi/mccabe:-:Afterword
+https://google-styleguide.googlecode.com/svn/trunk/pyguide.html:-:Afterword
+http://www.pocoo.org/internal/styleguide/:-:Afterword
+http://docs.python-guide.org/en/latest/:-:Afterword
+http://bit.ly/1e8r8sj:-:Afterword
+http://meyerweb.com/eric/tools/s5/:-:Afterword
+http://bit.ly/1e8r4ss:-:Afterword
+http://blog.startifact.com/posts/older/what-is-pythonic.html:-:Afterword
+http://bit.ly/1e8raAA:-:Afterword
+http://bit.ly/1e8reQP:-:Afterword
+https://www.python.org/dev/peps/pep-3099/:-:Afterword
+https://www.python.org/doc/essays/:-:Afterword
+http://bit.ly/1e8s1Bd:-:Afterword
+https://github.com/fluentpython/isis2json:-:Support scripts
+https://docs.python.org/3/glossary.html:-:Support scripts
+http://docs.python.org/library/functions.html:-:UNKNOWN to identify an entry in the Unicode charac‐
+http://docs.python.org/library/functions.html:-:UNKNOWN to identify an entry in the Unicode charac‐
+https://pypi.python.org/pypi:-:UNKNOWN to identify an entry in the Unicode charac‐
+https://pypi.python.org/pypi:-:UNKNOWN to identify an entry in the Unicode charac‐
+https://cheeseshop.python.org:-:UNKNOWN to identify an entry in the Unicode charac‐
+https://cheeseshop.python.org:-:UNKNOWN to identify an entry in the Unicode charac‐
+http://docs.python.org/library/functions.html:-:Python jargon
+http://en.wikipedia.org/wiki/Considered_harmful:-:Python jargon
+http://meyerweb.com/eric/comment/chech.html:-:Python jargon
+https://pypi.python.org:-:UNKNOWN ages,  PEP-8  recommends  concatenating
+http://speed.pypy.org:-:UNKNOWN ages,  PEP-8  recommends  concatenating
+http://bit.ly/1GsZwss:-:Python jargon
+http://bit.ly/1QS9Ong:-:Python jargon
+http://bit.ly/1DeDbKf:-:Python jargon
+http://python.pro.br:-:UNKNOWN Myriad Condensed; and the code font is Dalton Maag’s Ubuntu Mono.
+http://animals.oreilly.com:-:UNKNOWN Myriad Condensed; and the code font is Dalton Maag’s Ubuntu Mono.

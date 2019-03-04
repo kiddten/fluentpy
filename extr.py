@@ -4,7 +4,7 @@ from itertools import groupby
 from operator import itemgetter
 
 
-links = pickle.load(open('links.b', 'rb'))
+links = pickle.load(open('links.pickle', 'rb'))
 
 # print(len(links))
 # for el in links:
